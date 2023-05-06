@@ -1,3 +1,4 @@
+# FOR SIMPLIFIED VERSION OF THE PAGE GO TO https://github.com/AryanPlaysChess/VegaClicker-PRO/wiki
 # VegaClicker-PRO
 Vega Clicker v2 is an advanced piece of software which is UNDECTABLE, FAST and REALIABLE. 
 # Installation
